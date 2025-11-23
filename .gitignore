@@ -1,0 +1,55 @@
+## Visual Studio
+.vs/
+*.user
+*.suo
+*.cache
+*.userprefs
+
+## Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+*.log
+
+## NuGet
+packages/
+*.nupkg
+project.lock.json
+nuget.exe
+
+## Backup and generated files
+*.bak
+*.tmp
+*.temp
+*.DS_Store
+
+## Compiled binaries
+*.exe
+*.dll
+*.pdb
+
+## ReSharper
+_ReSharper*/
+*.DotSettings.user
+
+## Rider
+.idea/
+
+## Test results
+TestResults/
+*.trx
+
+## Publish output
+publish/
+*.publishsettings
+
+## Visual Studio database files
+*.mdf
+*.ldf
+
+## ClickOnce
+*.application
+*.manifest
+
+## Windows Form Designer generated files
+*.resources
